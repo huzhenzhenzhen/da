@@ -18,3 +18,4 @@ how to use git
 6. Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com  => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
 7. If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
 8. wait..
+9. push or pull fails sometimes, i think it was due to the network fluctuation --> git pull
