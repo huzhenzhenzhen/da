@@ -11,7 +11,7 @@ how to use git
 
 ------------
 1. check the file status in local repository, using "git status"
-2. make change to the file, the "git add filename" or "git add *"
+2. make change to the file, the "git add filename" or "git add *", then commit the change by using "git commit -m "add 1 line""
 3. to push the change to github, use "git push origin main", if you get SSL_read error(password authentication is not supported...)
 4. Go to this link: https://github.com/settings/tokens (Profile -> settings -> developers setting -> personal access tokens). (don't go to repository setting; it's your profile setting)
 5. Generate a new token and copy-paste it somewhere safely.
