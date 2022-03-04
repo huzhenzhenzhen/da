@@ -10,3 +10,6 @@ how to use git
 5. type "git clone https://github.com/huzhenzhenzhen/da.git", successfully cloned the github repository
 
 ------------
+1. check the file status in local repository, using "git status"
+2. make change to the file, the "git add filename" or "git add *"
+3. 
