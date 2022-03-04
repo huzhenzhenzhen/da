@@ -20,4 +20,5 @@ how to use git
 8. wait..
 9. push or pull fails sometimes, i think it was due to the network fluctuation --> git pull
 10. to create a new branch and switch to the new branch, "git checkout -b slave_1"
-11. update the file
+11. update the file, and "git push origin slave_1", the new branch slave_1 will be created in github
+12. go back to main branch "git checkout main"
