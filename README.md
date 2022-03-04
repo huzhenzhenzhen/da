@@ -19,3 +19,5 @@ how to use git
 7. If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
 8. wait..
 9. push or pull fails sometimes, i think it was due to the network fluctuation --> git pull
+10. to create a new branch and switch to the new branch, "git checkout -b slave_1"
+11. update the file
